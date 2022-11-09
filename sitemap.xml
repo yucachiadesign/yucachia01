@@ -11,19 +11,19 @@
       <image:loc>http://www.qooqee.com/templates/zen/images/kitchen.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/living%2020102018.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/next-minimal.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/00101.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/living%2020102018.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.qooqee.com/templates/zen/images/001012.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/022.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/023.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/img64.jpg</image:loc>
@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/residential.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -204,7 +204,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/01bentleigh-east,-vic-3165.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -258,7 +258,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/04mount-waverley,-vic-3149.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -301,7 +301,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/reservoir,-vic-3073.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -397,7 +397,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/superclinic.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -469,7 +469,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/0201-balwyn-north,-vic-3104-%E5%89%AF%E6%9C%AC-%E5%89%AF%E6%9C%AC.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

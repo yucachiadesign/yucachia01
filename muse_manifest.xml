@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.qooqee.com/templates/zen" resolutions="1x" timestamp="1667952836024">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.qooqee.com/templates/zen" resolutions="1x" timestamp="1667959282066">
   <folder name="css">
     <file name="site_global.css" crc="3819166114"/>
     <file name="master_main-master.css" crc="3872690342" ref="0201-balwyn-north,-vic-3104-副本-副本:06camberwell,-vic-3124-副本:reservoir,-vic-3073:malvern-east-vic-3145:index:services:pavilion-history-research:media:nebulous-landscape:commercial:preston，vic-3072:parametric-tower-prototype:about:research-prototype-1-sky-pavilion:05camberwell,-vic-3124:01bentleigh-east,-vic-3165:superclinic:07evolo:contact:0302-balwyn-north,-vic-3104:residential:subdivision-surface:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122"/>
     <file name="master_portfolio-master.css" crc="4141117538" ref="0201-balwyn-north,-vic-3104-副本-副本:06camberwell,-vic-3124-副本:reservoir,-vic-3073:malvern-east-vic-3145:pavilion-history-research:media:nebulous-landscape:commercial:preston，vic-3072:parametric-tower-prototype:research-prototype-1-sky-pavilion:05camberwell,-vic-3124:01bentleigh-east,-vic-3165:superclinic:07evolo:0302-balwyn-north,-vic-3104:residential:subdivision-surface:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122"/>
-    <file name="0201-balwyn-north_-vic-3104-__-__.css" crc="108752367" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="0201-balwyn-north_-vic-3104-__-__.css" crc="3804745929" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
     <file name="06camberwell_-vic-3124-__.css" crc="500622432" ref="06camberwell,-vic-3124-副本"/>
-    <file name="reservoir_-vic-3073.css" crc="4238109348" ref="reservoir,-vic-3073"/>
-    <file name="malvern-east-vic-3145.css" crc="4125513067" ref="malvern-east-vic-3145"/>
+    <file name="reservoir_-vic-3073.css" crc="121274914" ref="reservoir,-vic-3073"/>
+    <file name="malvern-east-vic-3145.css" crc="26220785" ref="malvern-east-vic-3145"/>
     <file name="index.css" crc="3778998936" ref="index"/>
     <file name="projects.css" crc="164005245" ref="projects"/>
     <file name="services.css" crc="4168653241" ref="services"/>
@@ -19,17 +19,17 @@
     <file name="about.css" crc="119207189" ref="about"/>
     <file name="research-prototype-1-sky-pavilion.css" crc="3889914552" ref="research-prototype-1-sky-pavilion"/>
     <file name="05camberwell_-vic-3124.css" crc="207785998" ref="05camberwell,-vic-3124"/>
-    <file name="01bentleigh-east_-vic-3165.css" crc="3974062726" ref="01bentleigh-east,-vic-3165"/>
-    <file name="superclinic.css" crc="405632168" ref="superclinic"/>
+    <file name="01bentleigh-east_-vic-3165.css" crc="4151358387" ref="01bentleigh-east,-vic-3165"/>
+    <file name="superclinic.css" crc="77213568" ref="superclinic"/>
     <file name="07evolo.css" crc="198407134" ref="07evolo"/>
     <file name="contact.css" crc="4289781093" ref="contact"/>
     <file name="0302-balwyn-north_-vic-3104.css" crc="306832540" ref="0302-balwyn-north,-vic-3104"/>
-    <file name="residential.css" crc="511706341" ref="residential"/>
+    <file name="residential.css" crc="494506926" ref="residential"/>
     <file name="subdivision-surface.css" crc="22980934" ref="subdivision-surface"/>
-    <file name="04mount-waverley_-vic-3149.css" crc="3866747383" ref="04mount-waverley,-vic-3149"/>
-    <file name="08ivanhoe-vic-3079.css" crc="3995704813" ref="08ivanhoe-vic-3079"/>
+    <file name="04mount-waverley_-vic-3149.css" crc="3979564680" ref="04mount-waverley,-vic-3149"/>
+    <file name="08ivanhoe-vic-3079.css" crc="4201462039" ref="08ivanhoe-vic-3079"/>
     <file name="09natian.css" crc="440345327" ref="09natian"/>
-    <file name="06-hawthorn_-vic-3122.css" crc="279764758" ref="06-hawthorn,-vic-3122"/>
+    <file name="06-hawthorn_-vic-3122.css" crc="342179750" ref="06-hawthorn,-vic-3122"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
@@ -51,11 +51,10 @@
     <file name="form-u48012.php" crc="4147585577" ref="tablet>contact"/>
   </folder>
   <folder name="images">
-    <file name="02-crop-u64871.jpg" crc="3762989609" seo="true" ref="phone>index">
+    <file name="00101-crop-u68400.jpg" crc="300534640" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="08100x81.jpg" crc="3987279089" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
+    <file name="02-crop-u68435.jpg" crc="3893301625" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kitchen108x81.png" crc="4144034166" seo="true" ref="phone>index">
@@ -63,23 +62,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="living 20102018-crop-u64949.jpg" crc="104426284" seo="true" ref="phone>index">
+    <file name="01-crop-u68518.jpg" crc="3924850181" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="06108x81.jpg" crc="446429490" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fs_02-crop-u46033.jpg" crc="170769602" seo="true" ref="phone>index">
+    <file name="01-crop-u68468.jpg" crc="7147196" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02.jpg" crc="233810097" seo="true" ref="phone>index:tablet>index">
+    <file name="01-crop-u68493.jpg" crc="154969640" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="00101.jpg" crc="429591895" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:phone>project:tablet>index:tablet>project:index"/>
-    <file name="08.jpg" crc="196231086" seo="true" ref="phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
+    <file name="02.jpg" crc="60371718" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kitchen.png" crc="235173874" seo="true" ref="phone>index:tablet>index:index">
@@ -87,75 +83,65 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="living 20102018.jpg" crc="4225913021" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="01.jpg" crc="3876885904" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="06.jpg" crc="30004256" seo="true" ref="phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
+    <file name="012.jpg" crc="481665109" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fs_02-crop-u46030.jpg" crc="258700911" seo="true" ref="phone>index">
+    <file name="013.jpg" crc="301503210" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:phone>project:tablet>index:tablet>project:index"/>
     <file name="01302x86.png" crc="290117570" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="concept_01-crop-u46229.jpg" crc="510148215" seo="true" ref="phone>project">
+    <file name="03-crop-u68653.jpg" crc="3971746885" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_05-crop-u46307.jpg" crc="36062489" seo="true" ref="phone>project">
+    <file name="01-crop-u68685.jpg" crc="4094669723" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_06-crop-u46316.jpg" crc="363858164" seo="true" ref="phone>project">
+    <file name="01-crop-u68717.jpg" crc="3858941037" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_07-crop-u46325.jpg" crc="357605582" seo="true" ref="phone>project">
+    <file name="01-crop-u68749.jpg" crc="3976764619" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_08467x291.jpg" crc="4120769500" seo="true" ref="phone>project">
+    <file name="01-crop-u68781.jpg" crc="38545664" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_02-crop-u46343.jpg" crc="4019473012" seo="true" ref="phone>project">
+    <file name="09-crop-u68815.jpg" crc="320744090" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_04-crop-u46352.jpg" crc="3906479991" seo="true" ref="phone>project">
+    <file name="02-crop-u68848.jpg" crc="3826458041" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_03-crop-u46361.jpg" crc="361166762" seo="true" ref="phone>project">
+    <file name="f3cebcb2db681ed61a90b68c819fa4f-crop-u68882.jpg" crc="73849293" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_0173x45.jpg" crc="69802339" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="concept_0573x45.jpg" crc="4177552946" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
+    <file name="03-crop-u68662.jpg" crc="4067109603" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_0665x41.jpg" crc="8721784" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="concept_07-crop-u46328.jpg" crc="382599097" seo="true" ref="phone>project">
+    <file name="01-crop-u68694.jpg" crc="384807297" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_0860x38.jpg" crc="141445587" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="concept_0269x43.jpg" crc="168541140" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
+    <file name="01-crop-u68726.jpg" crc="456163029" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_0473x45.jpg" crc="3926263840" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
+    <file name="01-crop-u68758.jpg" crc="58304763" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="concept_0371x44.jpg" crc="4056205581" seo="true" ref="phone>project">
+    <file name="01-crop-u68790.jpg" crc="105558181" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
+    </file>
+    <file name="0968x45.jpg" crc="372210972" seo="true" ref="phone>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="02-crop-u68857.jpg" crc="4095910941" seo="true" ref="phone>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="f3cebcb2db681ed61a90b68c819fa4f-crop-u68891.jpg" crc="4263085579" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
     <file name="next-minimal.png" crc="3892230922" seo="true" ref="phone>project:tablet>project:index:residential:commercial:media:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本">
@@ -196,56 +182,34 @@
       <caption webpage="preston，vic-3072" alt=""/>
       <caption webpage="06camberwell,-vic-3124-副本" alt=""/>
     </file>
-    <file name="design_01-crop-u46394.jpg" crc="34028718" seo="true" ref="phone>project">
+    <file name="75cdb83899d2216f9afb33951078141-crop-u68917.jpg" crc="3826819338" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_02430x268.jpg" crc="3909423751" seo="true" ref="phone>project">
+    <file name="wechat image_20211213122322467x350.jpg" crc="4168166451" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_04-crop-u46613.jpg" crc="4209087791" seo="true" ref="phone>project">
+    <file name="_dsc9539-crop-u68984.jpg" crc="322053067" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_05-crop-u46622.jpg" crc="409770877" seo="true" ref="phone>project">
+    <file name="_dsc9473-crop-u69019.jpg" crc="3896787598" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_06-crop-u46631.jpg" crc="3858677206" seo="true" ref="phone>project">
+    <file name="eb90de3d88a4d75288bbf5c17161d78467x350.jpg" crc="4286427099" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_07-crop-u46640.jpg" crc="137037907" seo="true" ref="phone>project">
+    <file name="75cdb83899d2216f9afb33951078141-crop-u68926.jpg" crc="4232287179" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_08-crop-u46649.jpg" crc="74523016" seo="true" ref="phone>project">
+    <file name="wechat image_2021121312232260x45.jpg" crc="3809013040" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_03-crop-u46658.jpg" crc="48278966" seo="true" ref="phone>project">
+    <file name="_dsc953968x45.jpg" crc="3905242136" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_01-crop-u46426.jpg" crc="3936814461" seo="true" ref="phone>project">
+    <file name="_dsc947368x45.jpg" crc="234084362" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="design_0260x38.jpg" crc="243005853" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="design_0468x42.jpg" crc="468383908" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="design_0573x45.jpg" crc="4177552946" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="design_06-crop-u46634.jpg" crc="228779274" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="design_07-crop-u46643.jpg" crc="4059740954" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="design_08-crop-u46652.jpg" crc="21711010" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
-    </file>
-    <file name="design_0373x45.jpg" crc="3758467349" seo="true" ref="phone>project">
-      <caption webpage="project" alt=""/>
+    <file name="eb90de3d88a4d75288bbf5c17161d7860x45.jpg" crc="284874866" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
     </file>
     <file name="interior_01-crop-u46504.jpg" crc="74523016" seo="true" ref="phone>project">
@@ -406,10 +370,29 @@
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
     </file>
-    <file name="living 20102018-crop-u64782.jpg" crc="104426284" seo="true" ref="tablet>index">
+    <file name="06108x81.jpg" crc="446429490" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="living 20102018-crop-u64782.jpg" crc="182517559" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="02-crop-u64802.jpg" crc="3762989609" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08100x81.jpg" crc="3987279089" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06.jpg" crc="30004256" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="living 20102018.jpg" crc="334856054" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="022.jpg" crc="233810097" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08.jpg" crc="196231086" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="01518x146.png" crc="109496149" seo="true" ref="tablet>index">
@@ -439,7 +422,28 @@
     <file name="concept_08.jpg" crc="4120769500" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
+    <file name="concept_0371x44.jpg" crc="4056205581" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="concept_0173x45.jpg" crc="69802339" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="concept_0269x43.jpg" crc="168541140" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="concept_0473x45.jpg" crc="3926263840" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="concept_0573x45.jpg" crc="4177552946" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="concept_0665x41.jpg" crc="8721784" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
     <file name="concept_07-crop-u47623.jpg" crc="382599097" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="concept_0860x38.jpg" crc="141445587" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
     <file name="design_01.jpg" crc="360255542" seo="true" ref="tablet>project">
@@ -469,6 +473,18 @@
     <file name="design_01-crop-u47661.jpg" crc="3936814461" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
+    <file name="design_0260x38.jpg" crc="243005853" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="design_0373x45.jpg" crc="3758467349" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="design_0468x42.jpg" crc="468383908" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
+    <file name="design_0573x45.jpg" crc="4177552946" seo="true" ref="tablet>project">
+      <caption webpage="project" alt=""/>
+    </file>
     <file name="design_06-crop-u47891.jpg" crc="228779274" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
@@ -478,7 +494,7 @@
     <file name="design_08-crop-u47909.jpg" crc="21711010" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="interior_01.jpg" crc="4120769500" seo="true" ref="tablet>project">
+    <file name="interior_01-crop-u47781.jpg" crc="3967717786" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
     <file name="interior_02-crop-u47941.jpg" crc="388788447" seo="true" ref="tablet>project">
@@ -499,7 +515,7 @@
     <file name="interior_07.jpg" crc="447069261" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
-    <file name="interior_08.jpg" crc="311604425" seo="true" ref="tablet>project">
+    <file name="interior_08-crop-u47995.jpg" crc="4203698024" seo="true" ref="tablet>project">
       <caption webpage="project" alt=""/>
     </file>
     <file name="interior_01-crop-u47738.jpg" crc="4110340100" seo="true" ref="tablet>project">
@@ -522,13 +538,13 @@
     <file name="u48058-r.png" crc="4241034720" ref="tablet>contact"/>
     <file name="u48060.png" crc="3884661609" ref="tablet>contact"/>
     <file name="u48060-r.png" crc="4035711698" ref="tablet>contact"/>
-    <file name="00101.jpg" crc="293094041" seo="true" ref="index">
+    <file name="001012.jpg" crc="293094041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="未标题-1.jpg" crc="4178634623" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="022.jpg" crc="4194535645" seo="true" ref="index">
+    <file name="023.jpg" crc="4194535645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img64.jpg" crc="45135235" seo="true" ref="index">
@@ -564,7 +580,7 @@
     <file name="img107-crop-u65294.jpg" crc="529286249" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="living 20102018-crop-u64657.jpg" crc="104426284" seo="true" ref="index">
+    <file name="living 20102018-crop-u64657.jpg" crc="182517559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img253108x81.jpg" crc="495927153" seo="true" ref="index">
@@ -619,16 +635,14 @@
       <caption webpage="contact" alt=""/>
     </file>
     <file name="img272-u44000-fr.jpg" crc="4011693453" ref="residential"/>
-    <file name="01.jpg" crc="3933416449" ref="residential:04mount-waverley,-vic-3149">
+    <file name="014.jpg" crc="518125853" ref="residential:04mount-waverley,-vic-3149">
       <caption webpage="residential" alt=""/>
       <caption webpage="04mount-waverley,-vic-3149" alt=""/>
     </file>
     <file name="wechat image_20220914115147.jpg" crc="131336976" ref="residential">
       <caption webpage="residential" alt=""/>
     </file>
-    <file name="012.jpg" crc="57294823" ref="residential">
-      <caption webpage="residential" alt=""/>
-    </file>
+    <file name="01-u65488-3-fr.jpg" crc="170854927" ref="residential"/>
     <file name="e56f20c53a0322226bfe67d0c8c8dd5-u44186-fr.jpg" crc="4137814546" ref="residential"/>
     <file name="img112.jpg" crc="353604031" ref="residential">
       <caption webpage="residential" alt=""/>
@@ -695,13 +709,11 @@
     <file name="hezel.jpg" crc="4157479655" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="03.jpg" crc="259600590" ref="01bentleigh-east,-vic-3165">
+    <file name="03.jpg" crc="321739758" ref="01bentleigh-east,-vic-3165">
       <caption webpage="01bentleigh-east,-vic-3165" alt=""/>
     </file>
-    <file name="013.jpg" crc="363961059" ref="01bentleigh-east,-vic-3165">
-      <caption webpage="01bentleigh-east,-vic-3165" alt=""/>
-    </file>
-    <file name="023.jpg" crc="71557049" ref="01bentleigh-east,-vic-3165">
+    <file name="01-u66891-fr.jpg" crc="3939526039" ref="01bentleigh-east,-vic-3165"/>
+    <file name="024.jpg" crc="71557049" ref="01bentleigh-east,-vic-3165">
       <caption webpage="01bentleigh-east,-vic-3165" alt=""/>
     </file>
     <file name="004.jpg" crc="33111213" ref="07evolo">
@@ -743,7 +755,7 @@
     <file name="5.jpg" crc="3822150168" seo="true" ref="0302-balwyn-north,-vic-3104">
       <caption webpage="0302-balwyn-north,-vic-3104" alt=""/>
     </file>
-    <file name="024.jpg" crc="517117239" ref="04mount-waverley,-vic-3149">
+    <file name="025.jpg" crc="517117239" ref="04mount-waverley,-vic-3149">
       <caption webpage="04mount-waverley,-vic-3149" alt=""/>
     </file>
     <file name="img202.jpg" crc="360056043" ref="08ivanhoe-vic-3079">
@@ -753,7 +765,7 @@
       <caption webpage="08ivanhoe-vic-3079" alt=""/>
     </file>
     <file name="06-u56128-fr.jpg" crc="4195437842" ref="08ivanhoe-vic-3079"/>
-    <file name="025.jpg" crc="396341091" ref="08ivanhoe-vic-3079">
+    <file name="026.jpg" crc="396341091" ref="08ivanhoe-vic-3079">
       <caption webpage="08ivanhoe-vic-3079" alt=""/>
     </file>
     <file name="033.jpg" crc="148687314" ref="08ivanhoe-vic-3079">
@@ -780,7 +792,7 @@
     <file name="_dsc9646-u57497-fr.jpg" crc="3851247534" ref="06-hawthorn,-vic-3122"/>
     <file name="_dsc9761-u57606-fr.jpg" crc="177988899" ref="06-hawthorn,-vic-3122"/>
     <file name="img_4730-u57508-fr.jpg" crc="102889666" ref="06-hawthorn,-vic-3122"/>
-    <file name="014.jpg" crc="341217415" ref="06-hawthorn,-vic-3122">
+    <file name="015.jpg" crc="341217415" ref="06-hawthorn,-vic-3122">
       <caption webpage="06-hawthorn,-vic-3122" alt=""/>
     </file>
     <file name="wechat image_20211213122342.jpg" crc="305286390" ref="reservoir,-vic-3073">
@@ -789,7 +801,7 @@
     <file name="wechat image_20211213122346.jpg" crc="294021525" seo="true" ref="reservoir,-vic-3073">
       <caption webpage="reservoir,-vic-3073" alt=""/>
     </file>
-    <file name="wechat image_20211213122322.jpg" crc="233050831" ref="reservoir,-vic-3073">
+    <file name="wechat image_20211213122322.jpg" crc="72973375" ref="reservoir,-vic-3073">
       <caption webpage="reservoir,-vic-3073" alt=""/>
     </file>
     <file name="wechat image_20211213122349.jpg" crc="3863827333" ref="reservoir,-vic-3073">
@@ -798,7 +810,7 @@
     <file name="img98-crop-u59969.jpg" crc="142391497" seo="true" ref="parametric-tower-prototype">
       <caption webpage="parametric-tower-prototype" alt=""/>
     </file>
-    <file name="_dsc9563-crop-u59976.jpg" crc="3860823558" seo="true" ref="parametric-tower-prototype">
+    <file name="_dsc9563-crop-u59976.jpg" crc="4258265089" seo="true" ref="parametric-tower-prototype">
       <caption webpage="parametric-tower-prototype" alt=""/>
     </file>
     <file name="_dsc9581.jpg" crc="143930164" seo="true" ref="parametric-tower-prototype">
@@ -857,7 +869,7 @@
     <file name="6.jpg" crc="4080559774" ref="superclinic">
       <caption webpage="superclinic" alt=""/>
     </file>
-    <file name="eb90de3d88a4d75288bbf5c17161d78.jpg" crc="127118213" ref="superclinic">
+    <file name="eb90de3d88a4d75288bbf5c17161d78.jpg" crc="457833024" ref="superclinic">
       <caption webpage="superclinic" alt=""/>
     </file>
     <file name="7909de5ff69e6f2a0bf685ec2516148.jpg" crc="478328784" ref="superclinic">
@@ -922,70 +934,70 @@
       <caption webpage="06camberwell,-vic-3124-副本" alt=""/>
     </file>
     <file name="wechat image_20220914115147-u67664-fr.jpg" crc="131336976" ref="malvern-east-vic-3145"/>
-    <file name="026.jpg" crc="3952784142" ref="malvern-east-vic-3145">
+    <file name="027.jpg" crc="3952784142" ref="malvern-east-vic-3145">
       <caption webpage="malvern-east-vic-3145" alt=""/>
     </file>
     <file name="034.jpg" crc="3908962353" ref="malvern-east-vic-3145">
       <caption webpage="malvern-east-vic-3145" alt=""/>
     </file>
-    <file name="01-u67839-fr.jpg" crc="4119664595" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="027.jpg" crc="429942059" ref="0201-balwyn-north,-vic-3104-副本-副本">
+    <file name="01-u67839-fr.jpg" crc="3991866080" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="028.jpg" crc="429942059" ref="0201-balwyn-north,-vic-3104-副本-副本">
       <caption webpage="0201-balwyn-north,-vic-3104-副本-副本" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="3983441932" ref="tablet>project:tablet>contact:tablet>services:tablet>index"/>
-      <file name="project.css" crc="4120891251" ref="tablet>project"/>
+      <file name="project.css" crc="3859266279" ref="tablet>project"/>
       <file name="contact.css" crc="3944173224" ref="tablet>contact"/>
       <file name="services.css" crc="4042005874" ref="tablet>services"/>
       <file name="index.css" crc="3839050447" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="490936837" seo="true" mt="1667948517634" redirect="true"/>
-    <file name="project.html" crc="3823330161" seo="true" mt="1667947790352" redirect="true"/>
+    <file name="index.html" crc="4101236642" seo="true" mt="1667948517634" redirect="true"/>
+    <file name="project.html" crc="4265441893" seo="true" mt="1667959057712" redirect="true"/>
     <file name="contact.html" crc="281652139" seo="true" mt="1667947790352" redirect="true"/>
     <file name="services.html" crc="8111765" seo="true" mt="1667950065266" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="132682909" ref="phone>project:phone>contact:phone>about:phone>index:phone>services"/>
-      <file name="project.css" crc="5401058" ref="phone>project"/>
-      <file name="contact.css" crc="4057925099" ref="phone>contact"/>
-      <file name="about.css" crc="4152041592" ref="phone>about"/>
-      <file name="index.css" crc="4204064564" ref="phone>index"/>
-      <file name="services.css" crc="4168317625" ref="phone>services"/>
+      <file name="project.css" crc="4180911587" ref="phone>project"/>
+      <file name="contact.css" crc="3800995387" ref="phone>contact"/>
+      <file name="about.css" crc="3762806061" ref="phone>about"/>
+      <file name="index.css" crc="3956515271" ref="phone>index"/>
+      <file name="services.css" crc="4116448440" ref="phone>services"/>
     </folder>
-    <file name="index.html" crc="524961571" seo="true" mt="1667948371744" redirect="true"/>
-    <file name="project.html" crc="4237325224" seo="true" mt="1667948371744" redirect="true"/>
-    <file name="contact.html" crc="3967822721" seo="true" mt="1667948371744" redirect="true"/>
-    <file name="about.html" crc="4023256924" seo="true" mt="1667948371744" redirect="true"/>
-    <file name="services.html" crc="4174126178" seo="true" mt="1667952088096" redirect="true"/>
+    <file name="index.html" crc="430020276" seo="true" mt="1667957245179" redirect="true"/>
+    <file name="project.html" crc="491185280" seo="true" mt="1667959080735" redirect="true"/>
+    <file name="contact.html" crc="4253201789" seo="true" mt="1667953630632" redirect="true"/>
+    <file name="about.html" crc="247330641" seo="true" mt="1667953630632" redirect="true"/>
+    <file name="services.html" crc="465952659" seo="true" mt="1667955175068" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4172250824" seo="true" mt="1667446341720" redirect="true"/>
+  <file name="index.html" crc="4174108709" seo="true" mt="1667446341720" redirect="true"/>
   <file name="services.html" crc="421849714" seo="true" mt="1667446341720" redirect="true"/>
   <file name="contact.html" crc="4046205948" seo="true" mt="1667447137701" redirect="true"/>
-  <file name="residential.html" crc="450734907" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="residential.html" crc="523710247" seo="true" mt="1667958345993" redirect="true"/>
   <file name="projects.html" crc="465180607" seo="true" mt="1522343089480" redirect="true"/>
   <file name="commercial.html" crc="3986282354" seo="true" mt="1667451312303" redirect="true"/>
   <file name="media.html" crc="3841427928" seo="true" mt="1667451312303" redirect="true"/>
   <file name="about.html" crc="128767232" seo="true" mt="1667947814565" redirect="true"/>
-  <file name="01bentleigh-east,-vic-3165.html" crc="3853644849" seo="true" mt="1667454731259" redirect="true"/>
+  <file name="01bentleigh-east,-vic-3165.html" crc="139317864" seo="true" mt="1667958345825" redirect="true"/>
   <file name="07evolo.html" crc="6390382" seo="true" mt="1667451312303" redirect="true"/>
   <file name="0302-balwyn-north,-vic-3104.html" crc="45902306" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="04mount-waverley,-vic-3149.html" crc="133264196" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="08ivanhoe-vic-3079.html" crc="490366078" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="04mount-waverley,-vic-3149.html" crc="472050070" seo="true" mt="1667958345992" redirect="true"/>
+  <file name="08ivanhoe-vic-3079.html" crc="323587148" seo="true" mt="1667451312303" redirect="true"/>
   <file name="09natian.html" crc="3887160912" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="06-hawthorn,-vic-3122.html" crc="482052571" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="reservoir,-vic-3073.html" crc="512763683" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="parametric-tower-prototype.html" crc="3852147351" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="06-hawthorn,-vic-3122.html" crc="3969468895" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="reservoir,-vic-3073.html" crc="141918107" seo="true" mt="1667958568574" redirect="true"/>
+  <file name="parametric-tower-prototype.html" crc="79162270" seo="true" mt="1667451312303" redirect="true"/>
   <file name="pavilion-history-research.html" crc="306212498" seo="true" mt="1667451312303" redirect="true"/>
   <file name="nebulous-landscape.html" crc="3767149863" seo="true" mt="1667451312303" redirect="true"/>
   <file name="preston，vic-3072.html" crc="4195720924" seo="true" mt="1667451312303" redirect="true"/>
   <file name="research-prototype-1-sky-pavilion.html" crc="117904776" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="superclinic.html" crc="4063759612" seo="true" mt="1667451335849" redirect="true"/>
+  <file name="superclinic.html" crc="94262365" seo="true" mt="1667958568647" redirect="true"/>
   <file name="subdivision-surface.html" crc="1934230" seo="true" mt="1667451312303" redirect="true"/>
   <file name="05camberwell,-vic-3124.html" crc="280962234" seo="true" mt="1667455627032" redirect="true"/>
   <file name="06camberwell,-vic-3124-副本.html" crc="3936049124" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="malvern-east-vic-3145.html" crc="326100275" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="0201-balwyn-north,-vic-3104-副本-副本.html" crc="4171864844" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="malvern-east-vic-3145.html" crc="4205146458" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="0201-balwyn-north,-vic-3104-副本-副本.html" crc="471984464" seo="true" mt="1667957166193" redirect="true"/>
 </manifest>
