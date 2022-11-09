@@ -97,25 +97,25 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.qooqee.com/templates/zen/phone/services.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.qooqee.com/templates/zen/tablet/services.html"/>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/bq.png</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/002.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/004.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/002.png</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/001.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/003.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/001.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/0012.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/0022.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.qooqee.com/templates/zen/images/bq.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -191,11 +191,10 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/about.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.qooqee.com/templates/zen/phone/about.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.qooqee.com/templates/zen/tablet/about.html"/>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/bq.png</image:loc>
     </image:image>
@@ -283,7 +282,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/tablet/project.html</loc>
-    <lastmod>2018-03-30</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.qooqee.com/templates/zen/phone/project.html"/>

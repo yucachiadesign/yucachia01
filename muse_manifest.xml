@@ -1,53 +1,53 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.qooqee.com/templates/zen" resolutions="1x" timestamp="1667801575897">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.qooqee.com/templates/zen" resolutions="1x" timestamp="1667952836024">
   <folder name="css">
     <file name="site_global.css" crc="3819166114"/>
-    <file name="master_portfolio-master.css" crc="4141117538" ref="subdivision-surface:01bentleigh-east,-vic-3165:05camberwell,-vic-3124:04mount-waverley,-vic-3149:commercial:research-prototype-1-sky-pavilion:07evolo:preston，vic-3072:malvern-east-vic-3145:nebulous-landscape:media:parametric-tower-prototype:06-hawthorn,-vic-3122:pavilion-history-research:reservoir,-vic-3073:06camberwell,-vic-3124-副本:09natian:residential:superclinic:08ivanhoe-vic-3079:0302-balwyn-north,-vic-3104:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="master_main-master.css" crc="3872690342" ref="subdivision-surface:01bentleigh-east,-vic-3165:05camberwell,-vic-3124:04mount-waverley,-vic-3149:commercial:research-prototype-1-sky-pavilion:07evolo:preston，vic-3072:malvern-east-vic-3145:nebulous-landscape:media:parametric-tower-prototype:06-hawthorn,-vic-3122:about:pavilion-history-research:reservoir,-vic-3073:06camberwell,-vic-3124-副本:09natian:residential:superclinic:08ivanhoe-vic-3079:services:contact:0302-balwyn-north,-vic-3104:0201-balwyn-north,-vic-3104-副本-副本:index"/>
-    <file name="subdivision-surface.css" crc="4277390308" ref="subdivision-surface"/>
-    <file name="01bentleigh-east_-vic-3165.css" crc="327645372" ref="01bentleigh-east,-vic-3165"/>
+    <file name="master_main-master.css" crc="3872690342" ref="0201-balwyn-north,-vic-3104-副本-副本:06camberwell,-vic-3124-副本:reservoir,-vic-3073:malvern-east-vic-3145:index:services:pavilion-history-research:media:nebulous-landscape:commercial:preston，vic-3072:parametric-tower-prototype:about:research-prototype-1-sky-pavilion:05camberwell,-vic-3124:01bentleigh-east,-vic-3165:superclinic:07evolo:contact:0302-balwyn-north,-vic-3104:residential:subdivision-surface:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122"/>
+    <file name="master_portfolio-master.css" crc="4141117538" ref="0201-balwyn-north,-vic-3104-副本-副本:06camberwell,-vic-3124-副本:reservoir,-vic-3073:malvern-east-vic-3145:pavilion-history-research:media:nebulous-landscape:commercial:preston，vic-3072:parametric-tower-prototype:research-prototype-1-sky-pavilion:05camberwell,-vic-3124:01bentleigh-east,-vic-3165:superclinic:07evolo:0302-balwyn-north,-vic-3104:residential:subdivision-surface:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122"/>
+    <file name="0201-balwyn-north_-vic-3104-__-__.css" crc="108752367" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="06camberwell_-vic-3124-__.css" crc="500622432" ref="06camberwell,-vic-3124-副本"/>
+    <file name="reservoir_-vic-3073.css" crc="4238109348" ref="reservoir,-vic-3073"/>
+    <file name="malvern-east-vic-3145.css" crc="4125513067" ref="malvern-east-vic-3145"/>
+    <file name="index.css" crc="3778998936" ref="index"/>
     <file name="projects.css" crc="164005245" ref="projects"/>
-    <file name="05camberwell_-vic-3124.css" crc="339365471" ref="05camberwell,-vic-3124"/>
-    <file name="04mount-waverley_-vic-3149.css" crc="4065304461" ref="04mount-waverley,-vic-3149"/>
-    <file name="commercial.css" crc="210939187" ref="commercial"/>
-    <file name="research-prototype-1-sky-pavilion.css" crc="3901926548" ref="research-prototype-1-sky-pavilion"/>
-    <file name="07evolo.css" crc="4100439678" ref="07evolo"/>
-    <file name="preston_vic-3072.css" crc="4261645385" ref="preston，vic-3072"/>
-    <file name="malvern-east-vic-3145.css" crc="210669992" ref="malvern-east-vic-3145"/>
-    <file name="nebulous-landscape.css" crc="269936364" ref="nebulous-landscape"/>
-    <file name="media.css" crc="4033201728" ref="media"/>
-    <file name="parametric-tower-prototype.css" crc="4167779791" ref="parametric-tower-prototype"/>
-    <file name="06-hawthorn_-vic-3122.css" crc="4004331366" ref="06-hawthorn,-vic-3122"/>
-    <file name="about.css" crc="3901675123" ref="about"/>
-    <file name="pavilion-history-research.css" crc="380628269" ref="pavilion-history-research"/>
-    <file name="reservoir_-vic-3073.css" crc="211004053" ref="reservoir,-vic-3073"/>
-    <file name="06camberwell_-vic-3124-__.css" crc="372342546" ref="06camberwell,-vic-3124-副本"/>
-    <file name="09natian.css" crc="153896508" ref="09natian"/>
-    <file name="residential.css" crc="4244522044" ref="residential"/>
-    <file name="superclinic.css" crc="309609809" ref="superclinic"/>
-    <file name="08ivanhoe-vic-3079.css" crc="373228115" ref="08ivanhoe-vic-3079"/>
-    <file name="services.css" crc="4246607196" ref="services"/>
+    <file name="services.css" crc="4168653241" ref="services"/>
+    <file name="pavilion-history-research.css" crc="12863461" ref="pavilion-history-research"/>
+    <file name="media.css" crc="255841662" ref="media"/>
+    <file name="nebulous-landscape.css" crc="3925185182" ref="nebulous-landscape"/>
+    <file name="commercial.css" crc="442665551" ref="commercial"/>
+    <file name="preston_vic-3072.css" crc="363100837" ref="preston，vic-3072"/>
+    <file name="parametric-tower-prototype.css" crc="3963936147" ref="parametric-tower-prototype"/>
+    <file name="about.css" crc="119207189" ref="about"/>
+    <file name="research-prototype-1-sky-pavilion.css" crc="3889914552" ref="research-prototype-1-sky-pavilion"/>
+    <file name="05camberwell_-vic-3124.css" crc="207785998" ref="05camberwell,-vic-3124"/>
+    <file name="01bentleigh-east_-vic-3165.css" crc="3974062726" ref="01bentleigh-east,-vic-3165"/>
+    <file name="superclinic.css" crc="405632168" ref="superclinic"/>
+    <file name="07evolo.css" crc="198407134" ref="07evolo"/>
     <file name="contact.css" crc="4289781093" ref="contact"/>
-    <file name="0302-balwyn-north_-vic-3104.css" crc="3933933617" ref="0302-balwyn-north,-vic-3104"/>
-    <file name="0201-balwyn-north_-vic-3104-__-__.css" crc="3773873709" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="index.css" crc="4054330475" ref="index"/>
+    <file name="0302-balwyn-north_-vic-3104.css" crc="306832540" ref="0302-balwyn-north,-vic-3104"/>
+    <file name="residential.css" crc="511706341" ref="residential"/>
+    <file name="subdivision-surface.css" crc="22980934" ref="subdivision-surface"/>
+    <file name="04mount-waverley_-vic-3149.css" crc="3866747383" ref="04mount-waverley,-vic-3149"/>
+    <file name="08ivanhoe-vic-3079.css" crc="3995704813" ref="08ivanhoe-vic-3079"/>
+    <file name="09natian.css" crc="440345327" ref="09natian"/>
+    <file name="06-hawthorn_-vic-3122.css" crc="279764758" ref="06-hawthorn,-vic-3122"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="museconfig.js" crc="128606099" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>project:phone>contact:phone>about:tablet>index:tablet>project:tablet>contact:tablet>about:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:phone>project:phone>about:tablet>index:tablet>project:tablet>about:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:phone>project:phone>about:tablet>index:tablet>project:tablet>about:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="touchswipe.js" crc="3888935200" ref="phone>index:phone>project:phone>about:tablet>index:tablet>project:tablet>about:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:contact:residential:commercial:media:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
-    <file name="require.js" crc="4177726516" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>about:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>project:phone>contact:phone>about:tablet>index:tablet>project:tablet>contact:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:phone>project:phone>about:tablet>index:tablet>project:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:phone>project:phone>about:tablet>index:tablet>project:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:phone>project:phone>about:tablet>index:tablet>project:index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:contact:residential:commercial:media:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>project:phone>contact:phone>about:phone>services:tablet>index:tablet>project:tablet>contact:tablet>services:index:services:contact:residential:projects:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
     <file name="form_check.php" crc="4108222811" ref="phone>contact"/>
     <file name="form_throttle.php" crc="503802655" ref="phone>contact"/>
     <file name="form_process.php" crc="260214869" ref="phone>contact"/>
     <file name="form-u46835.php" crc="3967005652" ref="phone>contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>about:tablet>about:residential:commercial:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>about:residential:commercial:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
     <file name="form-u48012.php" crc="4147585577" ref="tablet>contact"/>
   </folder>
   <folder name="images">
@@ -70,7 +70,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fs_02-crop-u46033.jpg" crc="4060734623" seo="true" ref="phone>index">
+    <file name="fs_02-crop-u46033.jpg" crc="170769602" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="02.jpg" crc="233810097" seo="true" ref="phone>index:tablet>index">
@@ -159,42 +159,42 @@
       <caption webpage="project" alt=""/>
     </file>
     <file name="next-minimal.png" crc="3892230922" seo="true" ref="phone>project:tablet>project:index:residential:commercial:media:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本">
-      <caption webpage="pavilion-history-research" alt=""/>
-      <caption webpage="malvern-east-vic-3145" alt=""/>
-      <caption webpage="05camberwell,-vic-3124" alt=""/>
-      <caption webpage="reservoir,-vic-3073" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="0201-balwyn-north,-vic-3104-副本-副本" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="07evolo" alt=""/>
-      <caption webpage="parametric-tower-prototype" alt=""/>
-      <caption webpage="residential" alt=""/>
-      <caption webpage="06-hawthorn,-vic-3122" alt=""/>
-      <caption webpage="0302-balwyn-north,-vic-3104" alt=""/>
-      <caption webpage="commercial" alt=""/>
-      <caption webpage="research-prototype-1-sky-pavilion" alt=""/>
-      <caption webpage="06camberwell,-vic-3124-副本" alt=""/>
       <caption webpage="01bentleigh-east,-vic-3165" alt=""/>
-      <caption webpage="08ivanhoe-vic-3079" alt=""/>
-      <caption webpage="media" alt=""/>
-      <caption webpage="superclinic" alt=""/>
       <caption webpage="nebulous-landscape" alt=""/>
-      <caption webpage="04mount-waverley,-vic-3149" alt=""/>
-      <caption webpage="subdivision-surface" alt=""/>
-      <caption webpage="preston，vic-3072" alt=""/>
+      <caption webpage="0201-balwyn-north,-vic-3104-副本-副本" alt=""/>
+      <caption webpage="06-hawthorn,-vic-3122" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="superclinic" alt=""/>
+      <caption webpage="pavilion-history-research" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="reservoir,-vic-3073" alt=""/>
+      <caption webpage="commercial" alt=""/>
+      <caption webpage="parametric-tower-prototype" alt=""/>
+      <caption webpage="05camberwell,-vic-3124" alt=""/>
+      <caption webpage="research-prototype-1-sky-pavilion" alt=""/>
       <caption webpage="09natian" alt=""/>
+      <caption webpage="07evolo" alt=""/>
+      <caption webpage="0302-balwyn-north,-vic-3104" alt=""/>
+      <caption webpage="residential" alt=""/>
+      <caption webpage="08ivanhoe-vic-3079" alt=""/>
+      <caption webpage="malvern-east-vic-3145" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="subdivision-surface" alt=""/>
+      <caption webpage="04mount-waverley,-vic-3149" alt=""/>
+      <caption webpage="preston，vic-3072" alt=""/>
+      <caption webpage="06camberwell,-vic-3124-副本" alt=""/>
     </file>
     <file name="design_01-crop-u46394.jpg" crc="34028718" seo="true" ref="phone>project">
       <caption webpage="project" alt=""/>
@@ -300,15 +300,13 @@
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
     </file>
-    <file name="left.png" crc="4004084176" ref="phone>project:phone>contact:phone>about:phone>services:tablet>project:tablet>about:tablet>services">
+    <file name="left.png" crc="4004084176" ref="phone>project:phone>contact:phone>about:phone>services:tablet>project:tablet>services">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
@@ -328,8 +326,7 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="team4.jpg" crc="3973370313" ref="phone>about:tablet>about">
-      <caption webpage="about" alt=""/>
+    <file name="team4.jpg" crc="3973370313" ref="phone>about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="u46941.png" crc="3921630947" ref="phone>about"/>
@@ -340,8 +337,7 @@
     <file name="u46943-r.png" crc="4241034720" ref="phone>about"/>
     <file name="u46939.png" crc="3884661609" ref="phone>about"/>
     <file name="u46939-r.png" crc="4035711698" ref="phone>about"/>
-    <file name="team2.jpg" crc="3955586507" ref="phone>about:tablet>about">
-      <caption webpage="about" alt=""/>
+    <file name="team2.jpg" crc="3955586507" ref="phone>about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="u46951.png" crc="3921630947" ref="phone>about"/>
@@ -352,8 +348,7 @@
     <file name="u46953-r.png" crc="4241034720" ref="phone>about"/>
     <file name="u46955.png" crc="3884661609" ref="phone>about"/>
     <file name="u46955-r.png" crc="4035711698" ref="phone>about"/>
-    <file name="team5.jpg" crc="3802123023" ref="phone>about:tablet>about">
-      <caption webpage="about" alt=""/>
+    <file name="team5.jpg" crc="3802123023" ref="phone>about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="u46963.png" crc="3921630947" ref="phone>about"/>
@@ -364,8 +359,7 @@
     <file name="u46967-r.png" crc="4241034720" ref="phone>about"/>
     <file name="u46965.png" crc="3884661609" ref="phone>about"/>
     <file name="u46965-r.png" crc="4035711698" ref="phone>about"/>
-    <file name="team1.jpg" crc="380632147" ref="phone>about:tablet>about">
-      <caption webpage="about" alt=""/>
+    <file name="team1.jpg" crc="380632147" ref="phone>about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="u46927.png" crc="3921630947" ref="phone>about"/>
@@ -382,18 +376,33 @@
     <file name="logo05-u47019-fr.jpg" crc="4014552975" ref="phone>about"/>
     <file name="logo06-u47021-fr.jpg" crc="392789570" ref="phone>about"/>
     <file name="logo03-u47020-fr.jpg" crc="3902487029" ref="phone>about"/>
-    <file name="service_icon_01.png" crc="3870875454" seo="true" ref="phone>services:tablet>services">
+    <file name="002.png" crc="4097758850" seo="true" ref="phone>services:tablet>services:services">
       <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="service_icon_02.png" crc="3924679577" seo="true" ref="phone>services:tablet>services">
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
     </file>
-    <file name="service_icon_03.png" crc="3904415002" seo="true" ref="phone>services">
+    <file name="004.png" crc="4094485668" seo="true" ref="phone>services:tablet>services:services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
     </file>
-    <file name="service_icon_04.png" crc="3947888829" seo="true" ref="phone>services:tablet>services">
+    <file name="001.png" crc="3915366634" seo="true" ref="phone>services:tablet>services:services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="003.png" crc="4277892215" seo="true" ref="phone>services:tablet>services:services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="0012.png" crc="338510939" seo="true" ref="phone>services:tablet>services:services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="0022.png" crc="428521152" seo="true" ref="phone>services:tablet>services:services">
+      <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
     </file>
@@ -513,47 +522,6 @@
     <file name="u48058-r.png" crc="4241034720" ref="tablet>contact"/>
     <file name="u48060.png" crc="3884661609" ref="tablet>contact"/>
     <file name="u48060-r.png" crc="4035711698" ref="tablet>contact"/>
-    <file name="hezhao.jpg" crc="4158078150" seo="true" ref="tablet>about">
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="u48141.png" crc="3921630947" ref="tablet>about"/>
-    <file name="u48141-r.png" crc="3905166951" ref="tablet>about"/>
-    <file name="u48137.png" crc="476992463" ref="tablet>about"/>
-    <file name="u48137-r.png" crc="359302490" ref="tablet>about"/>
-    <file name="u48135.png" crc="135530647" ref="tablet>about"/>
-    <file name="u48135-r.png" crc="4241034720" ref="tablet>about"/>
-    <file name="u48139.png" crc="3884661609" ref="tablet>about"/>
-    <file name="u48139-r.png" crc="4035711698" ref="tablet>about"/>
-    <file name="u48122.png" crc="3921630947" ref="tablet>about"/>
-    <file name="u48122-r.png" crc="3905166951" ref="tablet>about"/>
-    <file name="u48128.png" crc="476992463" ref="tablet>about"/>
-    <file name="u48128-r.png" crc="359302490" ref="tablet>about"/>
-    <file name="u48126.png" crc="135530647" ref="tablet>about"/>
-    <file name="u48126-r.png" crc="4241034720" ref="tablet>about"/>
-    <file name="u48124.png" crc="3884661609" ref="tablet>about"/>
-    <file name="u48124-r.png" crc="4035711698" ref="tablet>about"/>
-    <file name="u48146.png" crc="3921630947" ref="tablet>about"/>
-    <file name="u48146-r.png" crc="3905166951" ref="tablet>about"/>
-    <file name="u48148.png" crc="476992463" ref="tablet>about"/>
-    <file name="u48148-r.png" crc="359302490" ref="tablet>about"/>
-    <file name="u48150.png" crc="135530647" ref="tablet>about"/>
-    <file name="u48150-r.png" crc="4241034720" ref="tablet>about"/>
-    <file name="u48152.png" crc="3884661609" ref="tablet>about"/>
-    <file name="u48152-r.png" crc="4035711698" ref="tablet>about"/>
-    <file name="u48109.png" crc="3921630947" ref="tablet>about"/>
-    <file name="u48109-r.png" crc="3905166951" ref="tablet>about"/>
-    <file name="u48107.png" crc="476992463" ref="tablet>about"/>
-    <file name="u48107-r.png" crc="359302490" ref="tablet>about"/>
-    <file name="u48113.png" crc="135530647" ref="tablet>about"/>
-    <file name="u48113-r.png" crc="4241034720" ref="tablet>about"/>
-    <file name="u48111.png" crc="3884661609" ref="tablet>about"/>
-    <file name="u48111-r.png" crc="4035711698" ref="tablet>about"/>
-    <file name="logo01-u48161-fr.jpg" crc="28006779" ref="tablet>about"/>
-    <file name="logo02-u48163-fr.jpg" crc="256142880" ref="tablet>about"/>
-    <file name="logo03-u48165-fr.jpg" crc="3808897499" ref="tablet>about"/>
-    <file name="logo04-u48162-fr.jpg" crc="4009769627" ref="tablet>about"/>
-    <file name="logo05-u48164-fr.jpg" crc="161896899" ref="tablet>about"/>
-    <file name="logo06-u48166-fr.jpg" crc="224200627" ref="tablet>about"/>
     <file name="00101.jpg" crc="293094041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -614,56 +582,38 @@
     <file name="u42835.png" crc="3884661609" ref="index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
     <file name="u42835-r.png" crc="4035711698" ref="index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本"/>
     <file name="bq.png" crc="4286595041" seo="true" ref="index:services:contact:residential:commercial:media:about:01bentleigh-east,-vic-3165:07evolo:0302-balwyn-north,-vic-3104:04mount-waverley,-vic-3149:08ivanhoe-vic-3079:09natian:06-hawthorn,-vic-3122:reservoir,-vic-3073:parametric-tower-prototype:pavilion-history-research:nebulous-landscape:preston，vic-3072:research-prototype-1-sky-pavilion:superclinic:subdivision-surface:05camberwell,-vic-3124:06camberwell,-vic-3124-副本:malvern-east-vic-3145:0201-balwyn-north,-vic-3104-副本-副本">
-      <caption webpage="05camberwell,-vic-3124" alt=""/>
-      <caption webpage="01bentleigh-east,-vic-3165" alt=""/>
-      <caption webpage="0201-balwyn-north,-vic-3104-副本-副本" alt=""/>
-      <caption webpage="residential" alt=""/>
-      <caption webpage="04mount-waverley,-vic-3149" alt=""/>
       <caption webpage="nebulous-landscape" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="research-prototype-1-sky-pavilion" alt=""/>
-      <caption webpage="08ivanhoe-vic-3079" alt=""/>
-      <caption webpage="0302-balwyn-north,-vic-3104" alt=""/>
-      <caption webpage="superclinic" alt=""/>
-      <caption webpage="07evolo" alt=""/>
-      <caption webpage="pavilion-history-research" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="06-hawthorn,-vic-3122" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="pavilion-history-research" alt=""/>
+      <caption webpage="research-prototype-1-sky-pavilion" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="09natian" alt=""/>
+      <caption webpage="07evolo" alt=""/>
+      <caption webpage="06camberwell,-vic-3124-副本" alt=""/>
+      <caption webpage="malvern-east-vic-3145" alt=""/>
+      <caption webpage="subdivision-surface" alt=""/>
+      <caption webpage="05camberwell,-vic-3124" alt=""/>
+      <caption webpage="superclinic" alt=""/>
+      <caption webpage="01bentleigh-east,-vic-3165" alt=""/>
       <caption webpage="parametric-tower-prototype" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="malvern-east-vic-3145" alt=""/>
-      <caption webpage="06camberwell,-vic-3124-副本" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="commercial" alt=""/>
-      <caption webpage="subdivision-surface" alt=""/>
-      <caption webpage="media" alt=""/>
       <caption webpage="reservoir,-vic-3073" alt=""/>
+      <caption webpage="0302-balwyn-north,-vic-3104" alt=""/>
+      <caption webpage="residential" alt=""/>
+      <caption webpage="08ivanhoe-vic-3079" alt=""/>
+      <caption webpage="0201-balwyn-north,-vic-3104-副本-副本" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="04mount-waverley,-vic-3149" alt=""/>
       <caption webpage="preston，vic-3072" alt=""/>
-      <caption webpage="09natian" alt=""/>
     </file>
     <file name="01.png" crc="212280824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="01186x53.png" crc="77306298" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="004.png" crc="4094485668" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="002.png" crc="4097758850" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="003.png" crc="4277892215" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="001.png" crc="3915366634" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="0012.png" crc="338510939" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
-    </file>
-    <file name="0022.png" crc="428521152" seo="true" ref="services">
-      <caption webpage="services" alt=""/>
     </file>
     <file name="04.jpg" crc="3861526353" ref="contact">
       <caption webpage="contact" alt=""/>
@@ -848,7 +798,7 @@
     <file name="img98-crop-u59969.jpg" crc="142391497" seo="true" ref="parametric-tower-prototype">
       <caption webpage="parametric-tower-prototype" alt=""/>
     </file>
-    <file name="_dsc9563-crop-u59976.jpg" crc="147337345" seo="true" ref="parametric-tower-prototype">
+    <file name="_dsc9563-crop-u59976.jpg" crc="3860823558" seo="true" ref="parametric-tower-prototype">
       <caption webpage="parametric-tower-prototype" alt=""/>
     </file>
     <file name="_dsc9581.jpg" crc="143930164" seo="true" ref="parametric-tower-prototype">
@@ -985,59 +935,57 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="353559111" ref="tablet>project:tablet>contact:tablet>index:tablet>about:tablet>services"/>
-      <file name="project.css" crc="325761967" ref="tablet>project"/>
-      <file name="contact.css" crc="231817070" ref="tablet>contact"/>
-      <file name="index.css" crc="4058830209" ref="tablet>index"/>
-      <file name="about.css" crc="4258990363" ref="tablet>about"/>
-      <file name="services.css" crc="246855880" ref="tablet>services"/>
+      <file name="master_a-master.css" crc="3983441932" ref="tablet>project:tablet>contact:tablet>services:tablet>index"/>
+      <file name="project.css" crc="4120891251" ref="tablet>project"/>
+      <file name="contact.css" crc="3944173224" ref="tablet>contact"/>
+      <file name="services.css" crc="4042005874" ref="tablet>services"/>
+      <file name="index.css" crc="3839050447" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="339664418" seo="true" mt="1617255386815" redirect="true"/>
-    <file name="project.html" crc="45613249" seo="true" mt="1522343089480" redirect="true"/>
-    <file name="contact.html" crc="240902724" seo="true" mt="1617252569370" redirect="true"/>
-    <file name="about.html" crc="3974710506" seo="true" mt="1522343089481" redirect="true"/>
-    <file name="services.html" crc="4240232454" seo="true" mt="1522343089481" redirect="true"/>
+    <file name="index.html" crc="490936837" seo="true" mt="1667948517634" redirect="true"/>
+    <file name="project.html" crc="3823330161" seo="true" mt="1667947790352" redirect="true"/>
+    <file name="contact.html" crc="281652139" seo="true" mt="1667947790352" redirect="true"/>
+    <file name="services.html" crc="8111765" seo="true" mt="1667950065266" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="164034753" ref="phone>about:phone>services:phone>project:phone>index:phone>contact"/>
-      <file name="about.css" crc="3801064948" ref="phone>about"/>
-      <file name="services.css" crc="4187119430" ref="phone>services"/>
-      <file name="project.css" crc="3825342185" ref="phone>project"/>
-      <file name="index.css" crc="232474787" ref="phone>index"/>
-      <file name="contact.css" crc="466325246" ref="phone>contact"/>
+      <file name="master_a-master.css" crc="132682909" ref="phone>project:phone>contact:phone>about:phone>index:phone>services"/>
+      <file name="project.css" crc="5401058" ref="phone>project"/>
+      <file name="contact.css" crc="4057925099" ref="phone>contact"/>
+      <file name="about.css" crc="4152041592" ref="phone>about"/>
+      <file name="index.css" crc="4204064564" ref="phone>index"/>
+      <file name="services.css" crc="4168317625" ref="phone>services"/>
     </folder>
-    <file name="index.html" crc="4288693458" seo="true" mt="1617252967201" redirect="true"/>
-    <file name="project.html" crc="3842862119" seo="true" mt="1522343089481" redirect="true"/>
-    <file name="contact.html" crc="88840127" seo="true" mt="1617252624902" redirect="true"/>
-    <file name="about.html" crc="304080000" seo="true" mt="1522343089481" redirect="true"/>
-    <file name="services.html" crc="3865789997" seo="true" mt="1522343089482" redirect="true"/>
+    <file name="index.html" crc="524961571" seo="true" mt="1667948371744" redirect="true"/>
+    <file name="project.html" crc="4237325224" seo="true" mt="1667948371744" redirect="true"/>
+    <file name="contact.html" crc="3967822721" seo="true" mt="1667948371744" redirect="true"/>
+    <file name="about.html" crc="4023256924" seo="true" mt="1667948371744" redirect="true"/>
+    <file name="services.html" crc="4174126178" seo="true" mt="1667952088096" redirect="true"/>
   </folder>
-  <file name="index.html" crc="402567055" seo="true" mt="1667446341720" redirect="true"/>
-  <file name="services.html" crc="211414048" seo="true" mt="1667446341720" redirect="true"/>
-  <file name="contact.html" crc="4201835700" seo="true" mt="1667447137701" redirect="true"/>
-  <file name="residential.html" crc="316919060" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="projects.html" crc="223020170" seo="true" mt="1522343089480" redirect="true"/>
-  <file name="commercial.html" crc="4113050634" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="media.html" crc="289744758" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="about.html" crc="496716266" seo="true" mt="1667446341720" redirect="true"/>
-  <file name="01bentleigh-east,-vic-3165.html" crc="3995768617" seo="true" mt="1667454731259" redirect="true"/>
-  <file name="07evolo.html" crc="4255578456" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="0302-balwyn-north,-vic-3104.html" crc="219409404" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="04mount-waverley,-vic-3149.html" crc="4005655947" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="08ivanhoe-vic-3079.html" crc="350209580" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="09natian.html" crc="303542122" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="06-hawthorn,-vic-3122.html" crc="431712199" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="reservoir,-vic-3073.html" crc="86483943" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="parametric-tower-prototype.html" crc="112441890" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="pavilion-history-research.html" crc="4076009690" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="nebulous-landscape.html" crc="3982625968" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="preston，vic-3072.html" crc="4054055469" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="research-prototype-1-sky-pavilion.html" crc="4166630562" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="superclinic.html" crc="409775740" seo="true" mt="1667451335849" redirect="true"/>
-  <file name="subdivision-surface.html" crc="185636659" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="05camberwell,-vic-3124.html" crc="435404264" seo="true" mt="1667455627032" redirect="true"/>
-  <file name="06camberwell,-vic-3124-副本.html" crc="4176413421" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="malvern-east-vic-3145.html" crc="3982507056" seo="true" mt="1667451312303" redirect="true"/>
-  <file name="0201-balwyn-north,-vic-3104-副本-副本.html" crc="118480421" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="index.html" crc="4172250824" seo="true" mt="1667446341720" redirect="true"/>
+  <file name="services.html" crc="421849714" seo="true" mt="1667446341720" redirect="true"/>
+  <file name="contact.html" crc="4046205948" seo="true" mt="1667447137701" redirect="true"/>
+  <file name="residential.html" crc="450734907" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="projects.html" crc="465180607" seo="true" mt="1522343089480" redirect="true"/>
+  <file name="commercial.html" crc="3986282354" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="media.html" crc="3841427928" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="about.html" crc="128767232" seo="true" mt="1667947814565" redirect="true"/>
+  <file name="01bentleigh-east,-vic-3165.html" crc="3853644849" seo="true" mt="1667454731259" redirect="true"/>
+  <file name="07evolo.html" crc="6390382" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="0302-balwyn-north,-vic-3104.html" crc="45902306" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="04mount-waverley,-vic-3149.html" crc="133264196" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="08ivanhoe-vic-3079.html" crc="490366078" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="09natian.html" crc="3887160912" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="06-hawthorn,-vic-3122.html" crc="482052571" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="reservoir,-vic-3073.html" crc="512763683" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="parametric-tower-prototype.html" crc="3852147351" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="pavilion-history-research.html" crc="306212498" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="nebulous-landscape.html" crc="3767149863" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="preston，vic-3072.html" crc="4195720924" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="research-prototype-1-sky-pavilion.html" crc="117904776" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="superclinic.html" crc="4063759612" seo="true" mt="1667451335849" redirect="true"/>
+  <file name="subdivision-surface.html" crc="1934230" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="05camberwell,-vic-3124.html" crc="280962234" seo="true" mt="1667455627032" redirect="true"/>
+  <file name="06camberwell,-vic-3124-副本.html" crc="3936049124" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="malvern-east-vic-3145.html" crc="326100275" seo="true" mt="1667451312303" redirect="true"/>
+  <file name="0201-balwyn-north,-vic-3104-副本-副本.html" crc="4171864844" seo="true" mt="1667451312303" redirect="true"/>
 </manifest>
