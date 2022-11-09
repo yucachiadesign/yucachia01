@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.qooqee.com/templates/zen/index.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.qooqee.com/templates/zen/phone/index.html"/>
@@ -14,16 +14,7 @@
       <image:loc>http://www.qooqee.com/templates/zen/images/next-minimal.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/living%2020102018.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/001012.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/023.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/img64.jpg</image:loc>
@@ -35,19 +26,19 @@
       <image:loc>http://www.qooqee.com/templates/zen/images/img107.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/img253.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/living%2020102018.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.qooqee.com/templates/zen/images/wechat%20image_20211213122337.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/img272.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/00101-crop-u65207.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/023.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/%E6%9C%AA%E6%A0%87%E9%A2%98-1-crop-u65030.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/0290x51.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/img64-crop-u65267.jpg</image:loc>
@@ -62,10 +53,13 @@
       <image:loc>http://www.qooqee.com/templates/zen/images/living%2020102018-crop-u64657.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/img253108x81.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/wechat%20image_20211213122337108x81.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/img272-crop-u65375.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.qooqee.com/templates/zen/images/02-crop-u67444.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/bq.png</image:loc>
@@ -243,7 +237,7 @@
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/0302-balwyn-north,-vic-3104.html</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -251,9 +245,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/bq.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/5.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -347,7 +338,7 @@
       <image:loc>http://www.qooqee.com/templates/zen/images/bq.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/_dsc9437.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/_dsc94372.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/_dsc9467.jpg</image:loc>
@@ -425,7 +416,7 @@
       <image:loc>http://www.qooqee.com/templates/zen/images/1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.qooqee.com/templates/zen/images/52.jpg</image:loc>
+      <image:loc>http://www.qooqee.com/templates/zen/images/5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/62.jpg</image:loc>
