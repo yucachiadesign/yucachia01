@@ -87,7 +87,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.yucachia.com.au/06-hawthorn,-vic-3122.html</loc>
+    <loc>http://www.yucachia.com.au/reservoir,-vic-3073.html</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -96,6 +96,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.yucachia.com.au/images/bq.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.yucachia.com.au/images/wechat%20image_20211213122346.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -260,7 +263,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.yucachia.com.au/clontarf-nsw.html</loc>
+    <loc>http://www.yucachia.com.au/06-hawthorn,-vic-3122.html</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -277,21 +280,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.yucachia.com.au/phone/project.html"/>
-  </url>
-  <url>
-    <loc>http://www.yucachia.com.au/reservoir,-vic-3073.html</loc>
-    <lastmod>2022-11-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.yucachia.com.au/images/next-minimal.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.yucachia.com.au/images/bq.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.yucachia.com.au/images/wechat%20image_20211213122346.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.yucachia.com.au/sydney,-nsw-2000.html</loc>
@@ -363,9 +351,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.yucachia.com.au/images/bq.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.yucachia.com.au/images/_dsc94732.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -481,6 +466,18 @@
   </url>
   <url>
     <loc>http://www.yucachia.com.au/balwyn,-vic-3103.html</loc>
+    <lastmod>2022-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.yucachia.com.au/images/next-minimal.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.yucachia.com.au/images/bq.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.yucachia.com.au/clontarf-nsw.html</loc>
     <lastmod>2022-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
