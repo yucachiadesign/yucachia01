@@ -188,6 +188,9 @@
     <image:image>
       <image:loc>http://www.qooqee.com/templates/zen/images/img98.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.qooqee.com/templates/zen/images/img64.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.qooqee.com/templates/zen/media.html</loc>
