@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.yucachia.com.au" resolutions="1x" timestamp="1669169724623">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.yucachia.com.au" resolutions="1x" timestamp="1669170561419">
   <folder name="css">
     <file name="site_global.css" crc="3819166114"/>
     <file name="master_main-master.css" crc="229763041" ref="glen-waverley-vic-3150:666preston,-vic-3072:preston，vic-3072:0201-balwyn-north,-vic-3104-副本-副本:prahran,-vic-3181:commercial:malvern-east-vic-3145:keysborough,-vic-3173:media:doncaster-east,-vic-3109:balwyn,-vic-3103:subdivision-surface:01bentleigh-east,-vic-3165:04mount-waverley,-vic-3149:about:index:06camberwell,-vic-3124-副本:services:07evolo-副本:contact:fitzroy,-vic-3065:clontarf-nsw:residential:0302-balwyn-north,-vic-3104:08ivanhoe-vic-3079:reservoir,-vic-3073:06-hawthorn,-vic-3122:sydney,-nsw-2000:05camberwell,-vic-3124"/>
     <file name="master_portfolio-master.css" crc="4033325040" ref="glen-waverley-vic-3150:666preston,-vic-3072:preston，vic-3072:0201-balwyn-north,-vic-3104-副本-副本:prahran,-vic-3181:commercial:malvern-east-vic-3145:keysborough,-vic-3173:media:doncaster-east,-vic-3109:balwyn,-vic-3103:subdivision-surface:01bentleigh-east,-vic-3165:04mount-waverley,-vic-3149:06camberwell,-vic-3124-副本:07evolo-副本:fitzroy,-vic-3065:clontarf-nsw:residential:0302-balwyn-north,-vic-3104:08ivanhoe-vic-3079:reservoir,-vic-3073:06-hawthorn,-vic-3122:sydney,-nsw-2000:05camberwell,-vic-3124"/>
-    <file name="glen-waverley-vic-3150.css" crc="4260072005" ref="glen-waverley-vic-3150"/>
+    <file name="glen-waverley-vic-3150.css" crc="38814985" ref="glen-waverley-vic-3150"/>
     <file name="666preston_-vic-3072.css" crc="93810874" ref="666preston,-vic-3072"/>
     <file name="preston_vic-3072.css" crc="444234386" ref="preston，vic-3072"/>
     <file name="0201-balwyn-north_-vic-3104-__-__.css" crc="175879782" ref="0201-balwyn-north,-vic-3104-副本-副本"/>
@@ -28,9 +28,9 @@
     <file name="residential.css" crc="4225523552" ref="residential"/>
     <file name="0302-balwyn-north_-vic-3104.css" crc="297537850" ref="0302-balwyn-north,-vic-3104"/>
     <file name="08ivanhoe-vic-3079.css" crc="4087373042" ref="08ivanhoe-vic-3079"/>
-    <file name="reservoir_-vic-3073.css" crc="157437382" ref="reservoir,-vic-3073"/>
+    <file name="reservoir_-vic-3073.css" crc="522561745" ref="reservoir,-vic-3073"/>
     <file name="06-hawthorn_-vic-3122.css" crc="49204584" ref="06-hawthorn,-vic-3122"/>
-    <file name="sydney_-nsw-2000.css" crc="4198474184" ref="sydney,-nsw-2000"/>
+    <file name="sydney_-nsw-2000.css" crc="4290778863" ref="sydney,-nsw-2000"/>
     <file name="05camberwell_-vic-3124.css" crc="223068467" ref="05camberwell,-vic-3124"/>
     <file name="projects.css" crc="164005245" ref="projects"/>
   </folder>
@@ -929,7 +929,7 @@
   <file name="contact.html" crc="4031623681" seo="true" mt="1667447137701" redirect="true"/>
   <file name="residential.html" crc="4223322477" seo="true" mt="1669169199127" redirect="true"/>
   <file name="projects.html" crc="465180607" seo="true" mt="1522343089480" redirect="true"/>
-  <file name="commercial.html" crc="3826267871" seo="true" mt="1669169583432" redirect="true"/>
+  <file name="commercial.html" crc="28715515" seo="true" mt="1669170510874" redirect="true"/>
   <file name="media.html" crc="4195065639" seo="true" mt="1669166774450" redirect="true"/>
   <file name="about.html" crc="3949539461" seo="true" mt="1667947814565" redirect="true"/>
   <file name="01bentleigh-east,-vic-3165.html" crc="3924013336" seo="true" mt="1669166774450" redirect="true"/>
@@ -937,9 +937,9 @@
   <file name="04mount-waverley,-vic-3149.html" crc="202378430" seo="true" mt="1669166774450" redirect="true"/>
   <file name="08ivanhoe-vic-3079.html" crc="343015081" seo="true" mt="1669166774450" redirect="true"/>
   <file name="06-hawthorn,-vic-3122.html" crc="310218945" seo="true" mt="1669166774450" redirect="true"/>
-  <file name="reservoir,-vic-3073.html" crc="3911879808" seo="true" mt="1669166774450" redirect="true"/>
-  <file name="sydney,-nsw-2000.html" crc="3816145562" seo="true" mt="1669166774450" redirect="true"/>
-  <file name="glen-waverley-vic-3150.html" crc="4030688376" seo="true" mt="1669166774450" redirect="true"/>
+  <file name="reservoir,-vic-3073.html" crc="487918439" seo="true" mt="1669170426009" redirect="true"/>
+  <file name="sydney,-nsw-2000.html" crc="430764335" seo="true" mt="1669170397500" redirect="true"/>
+  <file name="glen-waverley-vic-3150.html" crc="418542482" seo="true" mt="1669170454125" redirect="true"/>
   <file name="fitzroy,-vic-3065.html" crc="4165609228" seo="true" mt="1669169652532" redirect="true"/>
   <file name="preston，vic-3072.html" crc="4229188131" seo="true" mt="1669166774450" redirect="true"/>
   <file name="prahran,-vic-3181.html" crc="4174787545" seo="true" mt="1669166774450" redirect="true"/>
